@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521035306 source:d:\hax\code blockz\dijkstraasldjasdas\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+
